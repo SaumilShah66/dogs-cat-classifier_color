@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/saumil/cloud/dogs-cat-classifier_color/my_cnn.tflearn"
+all_model_checkpoint_paths: "/home/saumil/cloud/dogs-cat-classifier_color/my_cnn.tflearn"
